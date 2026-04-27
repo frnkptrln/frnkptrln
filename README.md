@@ -1,14 +1,11 @@
-
 ```text
- ________________________________________________
-/                                                \
-|   FRNKPTRLN / SYSTEMS / SIGNALS / FRAGMENTS    |
-|________________________________________________|
+ ______________________________________________
+/ systems · intelligence · security · sound    \
+\ play · strange tools · unfinished fragments  /
+ ----------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
-[ systems ] [ intelligence ] [ security ]
-[ sound ] [ play ] [ unfinished fragments ]
+```
