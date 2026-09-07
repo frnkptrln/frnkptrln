@@ -1,8 +1,8 @@
 ```text
- ___________________________________________
-/ systems · intelligence · security · sound \
-\ play · strange tools · fragments          /
- -------------------------------------------
+ ________________________________
+/ systems · intelligence · sound \
+\ building things to think with  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
