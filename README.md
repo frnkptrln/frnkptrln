@@ -1,8 +1,8 @@
 ```text
- ________________________________
-/ systems · intelligence · sound \
-\ building things to think with  /
- --------------------------------
+ ________________________
+/ systems · intelligence \
+\ sound · play           /
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
